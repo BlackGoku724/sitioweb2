@@ -1,0 +1,181 @@
+body{
+    background-color:#f3e6d8;
+}
+
+
+#caja img{
+    width: 663px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 5% auto;
+    display: block;
+    padding-top: 10px;
+}
+
+.preparacion{
+    height: 260px;
+    width: 609px;
+    background-color: #fff5faff;
+    border-radius: 10px;
+    margin-left: 42px;
+   
+}
+
+.preparacion > li > ul{
+    display: inline;
+
+}
+
+.preparacion > li > ul > span{
+    margin-left: -50px;
+    font-size: 21px;
+    line-height: 40px;
+
+}
+
+#receta > h1{
+    font-family: 'Young Serif', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+    
+    margin-left: 42px;
+    margin-top: -24px;
+    display: block;
+}
+
+.texto{
+    display: block;
+    margin: 0 auto;
+    width: 85%;
+    line-height: 30px;
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+    margin-top: -27px;
+    margin-left: 45px;
+    
+}
+#receta > p{
+    color: #000000;
+    
+   
+  
+    letter-spacing: normal;
+    
+    
+}
+
+.preparacion > h3{
+    color: hsl(332, 51%, 32%);
+    margin-left: 30px;
+    padding-top: 10px;
+    font-size: 19px;
+    font-family: 'Outfit', sans-serif;
+    
+}
+
+
+.preparacion > li {
+    padding-left: 37px;
+}
+
+#ingredientes h2{
+    color: #854632ff;
+    font-family: 'Outfit', sans-serif;
+    margin-left: 43px;
+}
+
+#ingredientes > li > ul{
+    display: inline-block;
+    margin-left: -49px;
+}
+
+#ingredientes > li{
+    margin-left: 61px;
+
+}
+
+
+
+#Instrucciones h2{
+    color: #854632ff;
+    font-family: 'Outfit', sans-serif;
+    margin-left: 43px;
+}
+
+.contenedor{
+    line-height: 40px;
+    font-family: 'Outfit', sans-serif;
+    width: 85%;
+    margin-left:37px ;
+}
+
+#nutricion h2{
+    color: #854632ff;
+    font-family: 'Outfit', sans-serif;
+    margin-left: 43px;
+    
+}
+
+#nutricion p{
+    margin-left: 43px;
+    font-size: 17px;
+}
+
+
+
+.especial{
+    color: #854632ff;
+    font-family: 'Outfit', sans-serif;;
+    font-weight: bold;
+    margin-left: 303px;
+}
+
+.especial2{
+    color: #854632ff;
+    font-family: 'Outfit', sans-serif;;
+    font-weight: bold;
+    margin-left: 264px;
+}
+
+.especial3{
+    color: #854632ff;
+    font-family: 'Outfit', sans-serif;;
+    font-weight: bold;
+    margin-left: 301px;
+}
+
+.especial4{
+    color: #854632ff;
+    font-family: 'Outfit', sans-serif;;
+    font-weight: bold;
+    margin-left: 310px;
+}
+
+.span1{
+    font-family: 'Outfit', sans-serif;
+    margin-left: 44px;
+}
+
+#caja{
+    background-color: white;
+    display: block;
+    width: 754px;
+    height: auto;
+    margin: 5% auto;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.linea{
+    width: 609px;
+    margin-left: 44px;
+}
+
+.ignacio{
+    text-align: center;
+}
+
+
+
+
